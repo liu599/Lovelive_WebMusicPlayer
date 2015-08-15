@@ -1,7 +1,9 @@
 # WebMusicPlayer
 
 This is a Single Page Web Application, music player based on JPlayer
+
 The following projects involved and thanks to the authors.
+
 - JPlayer
 - Fontello
 - Lovelive School Idol Project
