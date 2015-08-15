@@ -75,11 +75,11 @@ $(document).ready(function() {
 
 				});
 				
-				var randomPlayPattern = document.getElementById("jPlayerSufflePattern");
+				var randomPlayPattern = document.getElementById("jPlayerShufflePattern");
 				randomPlayPattern.addEventListener("click", function(event) {
-					if (!$("#jPlayerSufflePattern").hasClass('active')) {
+					if (!$("#jPlayerShufflePattern").hasClass('active')) {
 						$patternNumber = 1;
-						$("#jPlayerSufflePattern").addClass("active");
+						$("#jPlayerShufflePattern").addClass("active");
 						$("#repeatPlayPattern").removeClass("active");
 						$("#repeatButton").removeClass("active");
 						$("#jquery_jplayer_1").jPlayer("option", "loop", false);
