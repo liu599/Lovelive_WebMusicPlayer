@@ -1,6 +1,10 @@
 # WebMusicPlayer
 
 This is a Single Page Web Application, music player based on JPlayer
+The following projects involved and thanks to the authors.
+- JPlayer
+- Fontello
+- Lovelive School Idol Project
 
 [HomePage](http://eddie32.me/WebMusicPlayer/)
 
@@ -21,3 +25,8 @@ This is a Single Page Web Application, music player based on JPlayer
 #Issues:
 
 - Javascript mouse position for volume bars.
+ 
+
+# Data
+- The [music list](https://github.com/liu599/lovelive_musicaddress/blob/master/llmusiclist.js) is a SSL-320KBPS-MP3-JSON list including all of the songs by miu's  
+- The next music list will be all of the songs by Milky Holmes
