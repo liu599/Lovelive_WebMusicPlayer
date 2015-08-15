@@ -17,3 +17,7 @@ This is a Single Page Web Application, music player based on JPlayer
 - Version 2.0.0
   - Change CDs (Let user select the playlist)
   - Lrc gradually go up 
+
+#Issues:
+
+- Javascript mouse position for volume bars.
