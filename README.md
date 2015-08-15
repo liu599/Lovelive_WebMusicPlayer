@@ -2,6 +2,8 @@
 
 This is a Single Page Web Application, music player based on JPlayer
 
+[HomePage](http://eddie32.me/WebMusicPlayer/)
+
 # Versions
 
 - Version 1.0.0 First Commit
