@@ -62,6 +62,7 @@ $(document).ready(function() {
 						$("#repeatPlayPattern").addClass("active");
 						$("#jPlayerShufflePattern").removeClass("active");
 						$("#repeatButton").removeClass("active");
+						$("#jquery_jplayer_1").jPlayer("option", "loop", false);
 						console.log("顺序播放");
 					} else {
 						$patternNumber = 1;
