@@ -8,7 +8,7 @@ The following projects involved and thanks to the authors.
 - Fontello
 - Lovelive School Idol Project
 
-[HomePage](http://eddie32.me/WebMusicPlayer/)
+[HomePage](http://eddie32.me/Lovelive_WebMusicPlayer/)
 
 # Versions
 
