@@ -10,7 +10,7 @@ This is a Single Page Web Application, music player based on JPlayer
   - Basic JPlayer Functions(Play, Pause, Stepforware, Stepbackword, volume up/down/mute/max)
   - Music playlist
   - PlayPattern(Shuffle, Loop)
-  - Showing Lrc
+  - Showing lrc concurrently
 
 # Plans
 
