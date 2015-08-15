@@ -74,6 +74,19 @@ $(document).ready(function() {
 
 
 				});
+				
+				var randomPlayPattern = document.getElementById("jPlayerSufflePattern");
+				randomPlayPattern.addEventListener("click", function(event) {
+					if (!$("#jPlayerSufflePattern").hasClass('active')) {
+						$patternNumber = 1;
+						$("#jPlayerSufflePattern").addClass("active");
+						$("#repeatPlayPattern").removeClass("active");
+						$("#repeatButton").removeClass("active");
+						$("#jquery_jplayer_1").jPlayer("option", "loop", false);
+						console.log("默认播放模式");
+					} 
+				});
+				
 			},
 			play: function() {
 				// $("#jquery_jplayer_1").jPlayer("volume", 0.5);
