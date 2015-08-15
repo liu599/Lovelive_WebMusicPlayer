@@ -15,7 +15,7 @@ The following projects involved and thanks to the authors.
 - Version 1.0.0 First Commit
   - Basic JPlayer Functions(Play, Pause, Stepforware, Stepbackword, volume up/down/mute/max)
   - Music playlist
-  - PlayPattern(Shuffle, Loop)
+  - Pattern(Shuffle, Loop, Consequence)
   - Showing lrc concurrently
 
 # Plans
